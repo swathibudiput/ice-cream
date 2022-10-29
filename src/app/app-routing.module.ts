@@ -9,6 +9,7 @@ import { NuttyconesComponent } from './nuttycones/nuttycones.component';
 import { ThickshakesComponent } from './thickshakes/thickshakes.component';
 
 const routes: Routes = [
+  {path:'',redirectTo:'home',pathMatch:'full'},
   {path:'menu',component:MenuComponent},
   {path:'ice-creams',component:IceCreamsComponent},
   {path:'desserts',component:DesertsComponent},
