@@ -1,0 +1,24 @@
+.container{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3J2OKukqhJDdUbDuMV_IeZ4QgDr7dbbliA&usqp=CAU');
+    width: 120%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    
+}
+h3{
+    text-align: center;
+    margin-left: 25%;
+    width: 400px;
+}
+h1{
+    text-align: center;
+    text-decoration: none;
+    text-decoration: uppercase;
+    color: aqua;
+}
+h2{
+    margin-bottom: 30%;
+}
